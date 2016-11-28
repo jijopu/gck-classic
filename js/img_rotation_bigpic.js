@@ -55,18 +55,18 @@ var bigphototext = bigphototexts[rand1]
 
 <!-- This section will supply the link target for the MORE link.  -->
 morelinktargets = new Array
-morelinktargets[1] = "index.php?about"
-morelinktargets[2] = "index.php?about"
-morelinktargets[3] = "index.php?about"
-morelinktargets[4] = "index.php?about"
-morelinktargets[5] = "index.php?about"
-morelinktargets[6] = "index.php?about"
-morelinktargets[7] = "index.php?about"
-morelinktargets[8] = "index.php?about"
+morelinktargets[1] = "index.html?about"
+morelinktargets[2] = "index.html?about"
+morelinktargets[3] = "index.html?about"
+morelinktargets[4] = "index.html?about"
+morelinktargets[5] = "index.html?about"
+morelinktargets[6] = "index.html?about"
+morelinktargets[7] = "index.html?about"
+morelinktargets[8] = "index.html?about"
 
 var morelinktarget = morelinktargets[rand1]
 
 <!-- This section will pull the image from the IMG SRC that you specify.  DO NOT CHANGE THIS CODE!!! -->
-document.write('<div id="bigphotoholder"><div id="bigphotobar"><div id="bigphoto"><a href="index.php"><IMG SRC="' + bigphoto + '" border="0" width="444" height="289" alt="' + alttag + '"></a>')
+document.write('<div id="bigphotoholder"><div id="bigphotobar"><div id="bigphoto"><a href="index.html"><IMG SRC="' + bigphoto + '" border="0" width="444" height="289" alt="' + alttag + '"></a>')
 document.write('</div><div id="bigphototext"><div class="bigphototextindent"><h1>' + headertext +'</h1>' + bigphototext + '<p>> <a href="' + morelinktarget + '">More</a></p></div></div></div></div>')
 // -- End Hiding Here -->
