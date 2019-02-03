@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<meta http-equiv="content-type" content="text/html;charset=utf-81" />
+<head>
+  <title>{{ page.html_title }} | Government College Kasaragod</title>
+
+ {% include 2006/html_head.html %}
+
+</head>
+<body>
+<a name="top"></a>
+{% include 2006/toplinks.html %}
+<!-- End of Top Links Bar Div -->
+
+<div id="bannerbar">
+<div id="banner"><a href="index.html" title="Go To Government College Kasaragod Home Page"><img src="assets/2006/images/spacer.gif" alt="Government College Kasaragod" border="0" class="archban" /></a>
+</div>
+</div><!-- End of Banner Bar Div -->
+<div id="textban"><h3><a href=".html" title="Go To Government College Kasaragod Home Page">Government College Kasaragod<br />
+Government College Kasaragod</a></h3>
+</div>
+
+{% include 2006/navbar.html %}
+
+<div id="headerblock">
+<div id="quoteblock">
+  <div class="quoteblockindent">
+    {{ page.left_title }}
+  </div>
+</div>
+<div id="headerimage"> {{ page.headerimage }} </div>
+</div><!-- End of Header Block Div -->
+
+<div class="spacer"><img src="assets/2006/img/leer.gif" border="0" width="5" height="10" alt="" /></div>
+
+<div id="gradientbarbox">
+<div id="gradientbar"> </div></div>
+
+<div id="canvas">
+
+<div id="supportbody">
+<div id="leftsubnav">
+  <div class="leftsubnavindent">
+
+  {% if page.subnav %}
+  <ul>
+    {{ page.subnav }}
+  </ul>
+  {% endif %}
+
+  </div>
+</div>
+<div id="righttextarea">
+  <div class="righttextareaindent">
+    {{ page.breadcrumb }}
+
+
+{{ content }}
+
+
+</div>
+</div>
+<div class="spacer"> </div></div><!-- End of Support Body Div --></div><!-- End of Canvas Div -->
+
+<div id="emptybar"> </div>
+
+{% include 2006/footer.html %}
+<!-- End of Footer Div -->
+
+{% include 2006/dropdown.html %}
+
+</body>
+</html>
