@@ -23,11 +23,4 @@ title: Search Website
 To enter a query, type in a few descriptive words and press the Enter key or
 click the Search button for a list of relevant results.
 
-The search engine uses sophisticated text-matching techniques to find pages
-that are both important and relevant to your search. For instance, it analyzes
-not only the candidate page, but also the pages linking into it to determine
-the value of the candidate page for your search. It also prefers pages in
-which your query terms are near each other.
-
-|  |  
----|---|---
+<iframe src="https://duckduckgo.com/search.html?width=300&site=www.gck.ac.in&focus=yes" style="overflow:hidden;margin:0;padding:0;width:358px;height:40px;" frameborder="0"></iframe>
