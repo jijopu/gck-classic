@@ -58,7 +58,7 @@ the camp are given a certificate and are eligible for grace marks for seeking
 admission to higher courses. At present there are two units attached to the
 Kannur University.
 
-![](assets/2006/picture/upload/image/nss%20001.jpg){:class="img-responsive"}
+![[](assets/2006/picture/upload/image/nss%20001.jpg){:class="img-responsive" width="300px"}](assets/2006/picture/upload/image/nss%20001.jpg)
 
 ![](assets/2006/img/article/top_link_0.gif)
 
