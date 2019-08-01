@@ -22,13 +22,14 @@ subnav:
 title: Dr. Sajeev D
 ---
 
-# Dr. Jijo P. U.
+# Dr. Jijo P. U. 
+TED India 2009 Fellow.
 
 ## Assistant Professor
 
 ### Address
 
-![sajeev3.jpg](assets/2006/content/assets/2006/images/869cf80a6e83dda2af35329193222fa3.jpg)
+<!--- ![sajeev3.jpg](assets/2006/content/assets/2006/images/869cf80a6e83dda2af35329193222fa3.jpg) --->
 
 H. No. 13/328  
 Azad Road, Chala  
@@ -49,36 +50,15 @@ Nanophotonics, Computational Physics, Theoretical Physics.
 
 ### Publications
 
+
+_**Books**_
+
+* Perspectives and Methodology of Physical Sciences (2010) - Ane Books, New Delhi.
+
 _**Journal**_
 
-  * S. Damodarakurup, M. Lucamarini, G. Di Giuseppe, D. Vitali, and P. Tombesi, Experimental Inhibition of Decoherence on Flying Qubits via Bang-Bang" Control. Phys. Rev. Lett. 103, 040502 (2009).
-  * M. Lucamarini, G. Di Giuseppe, S. Damodarakurup, D. Vitali, and P. Tombesi, " supression of polarization decoherence for travelling light pulses via babng-bang dynamical decoupling ". Phys. Rev. A. 83, 032320 (2011).
+  * 
 
 _**Conference and Other**_
 
-  * D Sajeev, P M Aneesha, A Mubashira, M A Azeema, E Savithri Devi, P U Jijo and M Venugopalan, "Calibrating vibrations using a laser Michelson Interferometer", GCK Science Letters, Vol I, Issue 02, (2013)
-  * S. Damodarakurup, M. Lucamarini, G. Di Giuseppe, D. Vitali, and P. Tombesi,  
-Experimental Inhibition of Decoherence on Flying Qubits via \Bang-Bang"  
-Control. Phys. Rev. Lett. 103, 040502 (2009).
-
-  * S. Damodarakurup, M. Lucamarini, G. Di Giuseppe, D. Vitali, and P. Tombesi,  
-Bang-bang decoupling used in quantum optics for the rst time. SPIE Newsroom  
-10.1117/2.1200904.1550 (2009).
-
-  * D. Vitali, G. Di Giuseppe, M. Lucamarini, R. Kumar, S. Damodarakurup, G.  
-Ventura, and P. Tombesi. Dynamical decoupling schemes for inhibiting  
-decoherence in the propagation of single-photon polarization qubits  
-Physcon (2007).
-
-  * Damodarakurup S., Dann V. J, Nampoori V. P. N. Spectral studies on the laser  
-induced breakdown of corals. Photonics 2006. University of Hyderabad,  
-December 13-19, (2006).
-
-  * Dann V. J, Damodarakurup S., Anand A, Rao C. V .S, Nampoori V. P. N.  
-Optical Tomography of Laser Produced Plasma using Pixel Method. PTLUPA.  
-Indian Institute of Technology, Madras, vol. PTLUPA 6. December 21-22,(2006).
-
-  * Dann V. J, Damodarakurup S., Vallabhan C. P. G, Nandakumaran V. M,  
-Radhakrishnan P, Nampoori V. P. N. E ect of External Magnetic Field on the  
-dynamics of Laser Generated Plasma from a Solid Target. Photonics 2006 ,  
-University of Hyderabad, December 13-19, (2006).
+  * 
