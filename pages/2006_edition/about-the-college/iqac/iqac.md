@@ -55,4 +55,4 @@ of the college. The current roster of members of the cell is given below:
     * Dr. Jayasekhar S., Senior Scientist, CPCRI, Kasaragod (External Member)
     * Dr. Sijinkumar C., Department of Geology, Central University of Kerala (External Member)
     * Sri. Sajith Dhanapalan, Office Supt.
-    * Sri. Shuhail T. P. - College Union Chaiperson (Student Representative)
+    * Sri. Shuiab T. P. - College Union Chaiperson (Student Representative)
