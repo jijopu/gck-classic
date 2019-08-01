@@ -26,8 +26,8 @@ title: Dr. Pushpaletha P
 
 Assistant Professor & Research Guide
 
-![Ppletha pic.jpg](assets/2006/content/assets/2006/images/6cd4237c43052e446127be4242d77035.jpg)  
----  
+<!--[Ppletha pic.jpg](assets/2006/content/assets/2006/images/6cd4237c43052e446127be4242d77035.jpg)  
+---> 
   
 ### Address
 
