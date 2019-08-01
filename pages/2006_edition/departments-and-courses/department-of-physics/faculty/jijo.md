@@ -22,7 +22,7 @@ subnav:
 title: Dr. Sajeev D
 ---
 
-# Dr. Sajeev D
+# Dr. Jijo P. U.
 
 ## Assistant Professor
 
@@ -30,22 +30,22 @@ title: Dr. Sajeev D
 
 ![sajeev3.jpg](assets/2006/content/assets/2006/images/869cf80a6e83dda2af35329193222fa3.jpg)
 
-Saji Villa  
-Chingeli, Kadakkal  
-Kollam (District)  
-Kerala (State) - 691 536  
+H. No. 13/328  
+Azad Road, Chala  
+Vidyanagar P. O., Kasaragod 
+Kerala (State) - 671 123  
   
-Email:- sajeevphy "AT" gmail.com
+Email:- jijo "AT" gck.ac.in
 
 ### Specialization and Research Interests
 
-Quantum Optics, Quantum Communication, Experimental Quantum Photonics, Non-
-linear Optics, Ultrafast Optics, Electronics, Fiber Optics.
+Nanophotonics, Computational Physics, Theoretical Physics.
 
-### Patents
+### Education
 
-  * Patent Name : "Metodo di crittogra a quantistica e sistema di comunicazione che implementa il metodo," Number: MI2009A000894, Milano, 20/05/2009.
-  * Patent Name : "Ricevitore di segnali quantistici con compensazione del rumore, sistema e metodo di comunicazione a crittogra a quantistica," Number: MI2009A001594, Milano, 18/09/2009.
+  * PhD (2010) - Cochin University of Science & Technology, Kochi.
+  * CSIR-UGC JRF(NET) (2001) in Physical Sciences
+  * MSc (1999) - Mahatma Gandhi University, Kottayam.
 
 ### Publications
 

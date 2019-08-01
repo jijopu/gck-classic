@@ -27,13 +27,17 @@ title: Department of Physics - Faculties
 ![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Department of Physics -
 Faculties](department-of-physics-faculties.html)  
 ---|---  
-![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Dr. Sajeev D](sajeev.html)  
+![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Dr. Jijo P. U.](jijo.html)  
+Assistant Professor and HoD  
+![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Sumesh K. S.]()  
 Assistant Professor  
-![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Savithri Devi E](savi.html)  
+![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Dr. Pradeep A. V.]()
 Assistant Professor  
-![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Vikas L S](vikas.html)  
-Assisatnt Professor  
-![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Dhanesh Thomas](dhanesh-
-thomas.html)  
-![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Soumya AT](soumya-1.html)  
+![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Jubeesh M. K.]()  
+Assisatnt Professor
+![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Anumol C. N.]()  
+Assisatnt Professor (LWA)
+![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Dr. Nirmala Maria D'Souza]()  
 Guest Lecturer
+![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Vineeth P.]()  
+Guest Lecturer 
