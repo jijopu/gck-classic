@@ -31,8 +31,6 @@ subnav:
 title: Principal
 ---
 
-# Principal
+# Principal in Charge
 
-## Dr. Aravind Krishnan K.
-
-Address
+## Dr. Ananthapadmanabha A. L.
