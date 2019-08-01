@@ -43,7 +43,7 @@ The Internal Quality Assurance Cell functions as the nodal agency within the
 college to ensure overall quality of academic and extra-curricular activities
 of the college. The current roster of members of the cell is given below:
 
-### IQAC Roaster
+### IQAC Roster
 
   * Chairperson - Dr. Aravind Krishnan K., Principal
   * Coordinator - Dr. Jijo P. U., Department of Physics
@@ -56,3 +56,13 @@ of the college. The current roster of members of the cell is given below:
     * Dr. Sijinkumar C., Department of Geology, Central University of Kerala (External Member)
     * Sri. Sajith Dhanapalan, Office Supt.
     * Sri. Shuiab T. P. - College Union Chaiperson (Student Representative)
+
+# Annual Quality Assurance Reports
+
+## 2012-2013
+## 2013-2014
+## 2014-2015
+## 2015-2016
+## 2016-2017
+## 2017-2018
+## 2018-2019
