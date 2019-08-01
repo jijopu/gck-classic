@@ -33,7 +33,7 @@ Assistant Professor and HoD
 ![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Sumesh K. S.](sumesh.html)  
 Assistant Professor  
 
-![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Dr. Pradeep A. V.](pradeep.html)
+![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Dr. Pradeep A. V.](pradeep.html)  
 Assistant Professor 
 
 ![](assets/2006/img/article/intlink_1.gif)![](assets/2006/img/leer.gif) | [Jubeesh M. K.](jubeesh.html)  
