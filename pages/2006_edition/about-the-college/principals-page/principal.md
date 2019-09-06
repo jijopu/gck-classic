@@ -35,3 +35,5 @@ title: Principal
 
 ## Dr. Ananthapadmanabha A. L.
 Asssistant Professor of Geology
+Phone: 	+91-4994-256027 (Office)
+		+91.9539948967 (Cell)
