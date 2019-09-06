@@ -34,5 +34,6 @@ title: Vice Principal
 # Vice Principal
 
 ## Dr. Rema M.
-
 Asssistant Professor of Statistics
+Phone: +91-4994-256027 (Office)
+		+91.9400738626 (Cell)
