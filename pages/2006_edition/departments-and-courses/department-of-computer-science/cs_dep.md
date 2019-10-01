@@ -29,7 +29,7 @@ lecturers are working in this Department. The first outgoing batch completed
 the course in March 2007. Twenty two Students are being admitted to B.Sc. course
 in every year. A separate computer science lab with 12 PC systems started in
 the year 2006. The lab is expanded by installing 15 more PC systems and an lcd
-projector in 2007.The department is ready to accept more students for B.Sc.
+projector in 2007. The department is ready to accept more students for B.Sc.
 Computer Science course in future.  
 
 Presently, Jubeesh M. K., Assistant Professor, Department of Physics, is the
