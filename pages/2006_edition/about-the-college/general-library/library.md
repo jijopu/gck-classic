@@ -6,8 +6,8 @@ headerimage: <img alt="E ENABLES" height="105" src="assets/2006/images/banners/a
 html_title: General Library | Book Purchase
 layout: 2006_default
 left_title:
-- <img alt="General" border="0" height="33" src="assets/2006/content/gt/449ac3f049f23e7e0092afbb980d57b7.png"
-  title="General" width="115"/>
+- <img alt="Central" border="0" height="33" src="assets/2006/content/gt/449ac3f049f23e7e0092afbb980d57b7.png"
+  title="Central" width="115"/>
 - <img alt="Library" border="0" height="33" src="assets/2006/content/gt/43c4647e7923f10f844cebccc81e0981.png"
   title="Library" width="103"/>
 old_website: true
@@ -15,6 +15,8 @@ permalink: /library.html
 published: true
 title: Book Purchase
 ---
+# Librarian: Sunny Joseph
+Phone: +91.9446735414 (Cell)
 
 # Book Purchase
 

@@ -24,7 +24,7 @@ title: Department Profile
 # Department Profile
 
 The Computer Science Department started in the academic year 2004-05 with
-starting of the B.Sc. Degree course in Computer Science. Presently three
+starting of the B.Sc. Degree course in Computer Science. Presently four
 lecturers are working in this Department. The first outgoing batch completed
 the course in March 2007. Twenty Students are being admitted to B.Sc. course
 in every year. A separate computer science lab with 12 PC systems started in

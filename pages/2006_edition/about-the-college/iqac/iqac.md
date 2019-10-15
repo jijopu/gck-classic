@@ -18,16 +18,16 @@ subnav:
   Page</a></li>
 - <li class="sub_no"><a href="vice_principal.html" title="Vice Principal's  Page">Vice
   Principal's  Page</a></li>
-- <li class="sub_no active"><a href="iqac.html" title="IQAC">IQAC</a></li>
 - <li class="sub_no"><a href="administrative_structure.html" title="Administrative
   Structure">Administrative Structure</a></li>
 - <li class="sub_no"><a href="college_development_council.html" title="College Development
   Committee">College Development Committee</a></li>
-- <li class="sub_no"><a href="50years.html" title="50 Years">50 Years</a></li>
-- <li class="sub_no"><a href="library.html" title="General Library">General Library</a></li>
+- <a href="iqac.html">IQAC</a></li>
+- <li class="sub_no"><a href="library.html" title="Central Library">General Library</a></li>
 - <li class="sub_no sub_ul_true"><a href="facilities.html" title="College Facilities">College
   Facilities</a></li>
 - <li class="sub_no"><a href="rti.html" title="RTI">RTI</a></li>
+- <li class="sub_no"><a href="50years.html" title="50 Years">50 Years</a></li>
 title: Internal Quality Assurance Cell
 ---
 
@@ -43,7 +43,7 @@ The Internal Quality Assurance Cell functions as the nodal agency within the
 college to ensure overall quality of academic and extra-curricular activities
 of the college. The current roster of members of the cell is given below:
 
-### IQAC Roaster
+### IQAC Roster
 
   * Chairperson - Dr. Aravind Krishnan K., Principal
   * Coordinator - Dr. Jijo P. U., Department of Physics
@@ -55,4 +55,14 @@ of the college. The current roster of members of the cell is given below:
     * Dr. Jayasekhar S., Senior Scientist, CPCRI, Kasaragod (External Member)
     * Dr. Sijinkumar C., Department of Geology, Central University of Kerala (External Member)
     * Sri. Sajith Dhanapalan, Office Supt.
-    * Sri. Shuhail T. P. - College Union Chaiperson (Student Representative)
+    * Sri. Shuiab T. P. - College Union Chaiperson (Student Representative)
+
+# Annual Quality Assurance Reports
+
+## 2012-2013
+## 2013-2014
+## 2014-2015
+## 2015-2016
+## 2016-2017
+## 2017-2018
+## 2018-2019
