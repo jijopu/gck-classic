@@ -32,5 +32,6 @@ the year 2006. The lab is expanded by installing 15 more PC systems and an lcd
 projector in 2007. The department is ready to accept more students for B.Sc.
 Computer Science course in future.  
 
+It is also planned to start other couses in this department.
 Presently, Jubeesh M. K., Assistant Professor, Department of Physics, is the
-acting HOD of the Department.
+acting HOD of the Department. 
