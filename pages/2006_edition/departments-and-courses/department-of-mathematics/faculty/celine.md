@@ -19,16 +19,16 @@ subnav:
 - <li class="sub_no active"><a href="154.0.0.1.0.0.html" title="Faculty">Faculty</a></li>
 - <li class="sub_no"><a href="155.0.0.1.0.0.html" title="Courses">Courses</a></li>
 - <li class="sub_no"><a href="156.0.0.1.0.0.html" title="Students">Students</a></li>
-title: Dr T. Mubeena
+title: P. C. Celine
 ---
 
-# Dr T. Mubeena
+# P. C. Celine
 
-Assistant Professor & Head of the Department
+Associate Professor & Head of the Department
 
 ### Academic Qualifications
 
-  * PhD in Mathematics - Institute of Mathematical Sciences, Chennai
+  * M Phil in Mathematics - University of Calicut
   * M Sc in Mathematics - University of Calicut
 
 ### Address
@@ -38,7 +38,7 @@ P.M.S. Road,
 Nullipadi (P.O)  
 Kasaragod (Dt)
 
-  * Tel.:   (Home)
+  * Tel.: 9447090024 (Cell), 04994221340 (Home)
   * Email: celinvini(@)gmail(.)com
 
 ### Date of Joining

@@ -18,15 +18,15 @@ subnav:
   Page</a></li>
 - <li class="sub_no"><a href="vice_principal.html" title="Vice Principal's  Page">Vice
   Principal's  Page</a></li>
+- <li class="sub_no"><a href="iqac.html" title="IQAC">IQAC</a></li>
 - <li class="sub_no"><a href="administrative_structure.html" title="Administrative
   Structure">Administrative Structure</a></li>
-- <li class="sub_no"><a href="college_development_council.html" title="College Development
-  Committee">College Development Committee</a></li>
-- <a href="iqac.html">IQAC</a></li>
-- <li class="sub_no"><a href="library.html" title="Central Library">General Library</a></li>
+- <li class="sub_no active"><a href="college_development_council.html" title="College
+  Development Committee">College Development Committee</a></li>
+- <li class="sub_no"><a href="50years.html" title="50 Years">50 Years</a></li>
+- <li class="sub_no"><a href="library.html" title="General Library">General Library</a></li>
 - <li class="sub_no sub_ul_true"><a href="facilities.html" title="College Facilities">College
   Facilities</a></li>
 - <li class="sub_no"><a href="rti.html" title="RTI">RTI</a></li>
-- <li class="sub_no"><a href="50years.html" title="50 Years">50 Years</a></li>
 title: College Development Committee
 ---
