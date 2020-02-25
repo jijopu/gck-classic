@@ -31,8 +31,9 @@ subnav:
 title: Principal
 ---
 
-# Principal
+# Principal-in-Charge
 
-## Dr. Aravind Krishnan K.
+## Dr. Ananthapadmanabha A. L.
+Associate Professor of Gelogy
 
 Address
