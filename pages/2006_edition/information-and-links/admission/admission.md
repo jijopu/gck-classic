@@ -25,10 +25,14 @@ title: Academic Admissions
 
 # Academic Admissions
 
-### PG Admission 2017
+### PG Admission 2020
+### MSc Physics with Computational and Nano Scieces Specialization
 
-[Admission
-Schedule](http://14.139.185.42/newsite/notifications/PG_Admission_Schedule_4_8_17.pdf)
+[Instructions](http://14.139.185.42/newsite/notifications/PG_Admission_Schedule_4_8_17.pdf)
+
+[Affilation Order](http://14.139.185.42/newsite/notifications/PG_Admission_Schedule_4_8_17.pdf)
+
+[Application Form](http://14.139.185.42/newsite/notifications/PG_Admission_Schedule_4_8_17.pdf)
 
 [Admission Criteria &
-Guidelines](http://14.139.185.42/newsite/notifications/Guidelines%20for%20PG%20and%20BEd%20Admssions_26_7_17.pdf)
+Guidelines](http://admission.kannuruniversity.ac.in/PGSWS2020/pdfs/PGColleges2020-final.pdf)
